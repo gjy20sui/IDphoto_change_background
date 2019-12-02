@@ -1,0 +1,2 @@
+# IDphoto_change_background
+This program is based on the grabcut algorithm, which can replace the background color in the photo of the document with blue or red. However, the resolution of the original image has a certain impact on the matting effect of the algorithm. It is recommended to use an image with a resolution of about 700 * 550. If the distortion is still serious, you can take a screenshot of the original image to this resolution and try again.
